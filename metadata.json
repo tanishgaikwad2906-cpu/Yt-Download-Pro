@@ -1,0 +1,6 @@
+{
+  "name": "YT Download Pro",
+  "description": "Fast and modern YouTube video downloader. Retrieve available video and audio formats, resolutions, and file sizes with a clean, responsive dark-themed interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
